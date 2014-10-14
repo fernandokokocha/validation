@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1935410687">
+    <data-source source="LOCAL" name="Rails validation: development" uuid="9ecc8310-01b2-4ed7-a22d-da41b7690546">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:validation_development</jdbc-url>
+      <user-name>fernando</user-name>
+      <user-password>df99df92df93df9edf93df9bdf9a</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails validation: test" uuid="e43be319-894e-40a1-92cc-012cb122542d">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:validation_test</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails validation: production" uuid="698c26ec-aad1-47bf-87da-0cb18ea78094">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:validation_production</jdbc-url>
+      <user-name>validation</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddffcdfebdfe6dfe3dfeedfebdffedfe3dfe5dfe4dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
